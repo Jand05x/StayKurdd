@@ -167,3 +167,8 @@ body {
   font-size: 0.95em;
   color: #333;
 }
+#map {
+  width: 10%;
+  height: 10%;
+  border: 20px;
+}
